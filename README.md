@@ -1,4 +1,6 @@
 # PennAerialApp
+Videos are in .mkv format because of OBS weirdness, sorry about that.
+
 My Penn Aerial technical for software section.
 There are 3 functions:
 
